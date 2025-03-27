@@ -14,6 +14,6 @@
 * Spider Woman
 * Thor
 * Vision
-* Wasp
+* Wasp 
 * Antman
 * Nick Fury
